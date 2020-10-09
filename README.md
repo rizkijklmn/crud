@@ -1,2 +1,2 @@
 # crud
-Arkademy
+Javascript,Bootsrap,and MySQL
